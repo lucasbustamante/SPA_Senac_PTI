@@ -1,0 +1,10 @@
+.titulo {
+  font-size: 2em;
+  color: rgb(70, 70, 70);
+  font-weight: 900;
+}
+
+.subtitulo {
+  font-size: small;
+  color: rgb(70, 70, 70);
+}

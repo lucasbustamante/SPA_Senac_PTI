@@ -1,0 +1,18 @@
+#root {
+  /* border: 1px solid rgb(139, 69, 69); */
+  background-color: rgb(190, 190, 190);
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.container {
+  /* border: 1px solid rgb(139, 69, 69); */
+  background-color: rgb(220, 220, 220);
+  padding-bottom: 1em;
+  padding-left: 1em;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

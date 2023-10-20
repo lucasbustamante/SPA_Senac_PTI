@@ -1,0 +1,37 @@
+.card {
+    /* border: 1px solid rgb(247, 197, 197); */
+    background-color: white;
+    border-radius: 10px;
+    margin-right: 1em;
+    margin-top: 1em;
+    max-width: 9em;
+    min-width: auto;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.card:hover {
+    border: 1px solid rgb(145, 194, 226);
+    filter: drop-shadow(0 0 .2em #646cffaa);
+  }
+
+.imagem {
+    /* border: 1px solid rgb(64, 66, 172); */
+    border-radius: 10px;
+    max-width: 9em;
+}
+
+.valor {
+    /* border: 1px solid rgb(247, 197, 197); */
+    color: rgb(70, 70, 70);
+    text-align: left;
+    font-weight: 900;
+}
+
+.text {
+    /* border: 1px solid white; */
+    color: rgb(112, 112, 112);
+    margin-left: 1em;
+    margin-right: 1em;
+    font-size: smaller;
+}
