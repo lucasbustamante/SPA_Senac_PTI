@@ -6,13 +6,13 @@
   transition: filter 300ms;
 }
 
-.feijoada {
-  height: 10em;
+.foodlogo {
+  height: 17em;
 }
 
-.logo.feijoada:hover {
+.logo.foodlogo:hover {
   /* border: 1px solid white; */
-  filter: drop-shadow(0 0 2em #14ca2caa);
+  filter: drop-shadow(0 0 2em #ff6600aa);
 }
 
 @keyframes logo-spin {

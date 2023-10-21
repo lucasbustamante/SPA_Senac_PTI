@@ -33,7 +33,7 @@ function App() {
     nome: 'French Fries',
     descricao: 'Thin, crispy slices of fried potatoes.',
     valor: '10.00',
-    img: 'https://www.kindpng.com/picc/m/113-1138229_best-free-sushi-png-icon-transparent-png.png',
+    img: 'https://pngimg.com/d/sushi_PNG98839.png',
   };
   const dishes06 = {
     nome: 'French Fries',
@@ -63,7 +63,7 @@ function App() {
     nome: 'French Fries',
     descricao: 'Thin, crispy slices of fried potatoes.',
     valor: '10.00',
-    img: 'https://www.kindpng.com/picc/m/69-694225_plate-food-png-free-transparent-png.png',
+    img: 'https://freepngimg.com/save/139180-food-plate-fish-download-hd/792x797',
   };
   const dishes11 = {
     nome: 'French Fries',

@@ -1,3 +1,4 @@
+/*cor dos cards*/
 .card {
     /* border: 1px solid rgb(247, 197, 197); */
     background-color: white;
@@ -9,7 +10,7 @@
     padding-left: 1em;
     padding-right: 1em;
 }
-
+/*contorno dos cards*/
 .card:hover {
     border: 1px solid rgb(145, 194, 226);
     filter: drop-shadow(0 0 .2em #646cffaa);
@@ -20,14 +21,14 @@
     border-radius: 10px;
     max-width: 9em;
 }
-
+/*cor dos preços*/
 .valor {
     /* border: 1px solid rgb(247, 197, 197); */
     color: rgb(70, 70, 70);
     text-align: left;
     font-weight: 900;
 }
-
+/*cor dos testos*/
 .text {
     /* border: 1px solid white; */
     color: rgb(112, 112, 112);
