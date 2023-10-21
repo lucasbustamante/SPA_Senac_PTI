@@ -10,7 +10,7 @@ export default function CardProduto(props) {
             />
             <div className='text'>
                 <p>{props.dishes.descricao}</p>
-                <p className='valor'>$ {props.dishes.valor}</p>
+                <p className='valor'>R$ {props.dishes.valor}</p>
             </div>
         </div>
     )
