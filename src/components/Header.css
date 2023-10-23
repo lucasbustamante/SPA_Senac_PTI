@@ -12,7 +12,7 @@
 
 .logo.foodlogo:hover {
   /* border: 1px solid white; */
-  filter: drop-shadow(0 0 2em #231e1baa);
+  filter: drop-shadow(0 0 2em #e85a02aa);
 }
 
 @keyframes logo-spin {
