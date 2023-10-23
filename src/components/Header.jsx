@@ -1,6 +1,6 @@
 import React from 'react';
 import './Header.css';
-import logo from './src/assets/logo.png';
+import logo from '../public/logo.png'; // Verifique o caminho real da imagem
 
 export default function Header() {
     return (
