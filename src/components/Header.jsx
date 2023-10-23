@@ -1,4 +1,4 @@
-import React from 'react'; // Importe o React, se ainda não o fez
+import React from 'react';
 import './Header.css';
 
 export default function Header() {
