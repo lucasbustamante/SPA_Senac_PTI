@@ -12,8 +12,8 @@
 }
 /*contorno dos cards*/
 .card:hover {
-    border: 1px solid rgb(145, 194, 226);
-    filter: drop-shadow(0 0 .2em #646cffaa);
+    border: 1px solid rgb(226, 180, 145);
+    filter: drop-shadow(0 0 .2em #ffa564aa);
   }
 
 .imagem {
@@ -28,7 +28,7 @@
     text-align: left;
     font-weight: 900;
 }
-/*cor dos testos*/
+/*cor dos textos*/
 .text {
     /* border: 1px solid white; */
     color: rgb(112, 112, 112);
