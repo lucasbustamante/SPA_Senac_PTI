@@ -2,7 +2,7 @@
 
 Este projeto é uma Single Page Application (SPA) que simula uma página de cardápio de restaurante. Por favor, leia atentamente as instruções abaixo para garantir uma experiência suave durante a execução do projeto.
 
-<img src="src/assets/spa.png" alt="Image" height=750>
+<img src="src/assets/spa.png" alt="Image" height=700>
 
 ## Aviso sobre Carregamento de Imagens
 
