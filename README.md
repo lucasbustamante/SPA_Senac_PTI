@@ -36,8 +36,6 @@ Para executar este projeto em seu ambiente local, siga as etapas abaixo:
    npm install vite --save-dev
    ```
 
-   O Vite é um servidor de desenvolvimento que facilita a construção de SPAs em JavaScript.
-
 5. **Execute o Projeto:**
    Agora que todas as dependências estão instaladas, inicie o projeto com o seguinte comando:
 
